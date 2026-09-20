@@ -23,4 +23,7 @@ policies = [
 ]
 
 for policy in policies:
-    print(policy.calculate_premium())            
+    print(policy.calculate_premium())
+    
+
+                
